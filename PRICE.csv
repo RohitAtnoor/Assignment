@@ -1,0 +1,14 @@
+Item Number,Item,Part Category,Unit Cost (USD)
+PT001,Frame,Raw Material,80
+PT002,Wheels (front & rear),Assembly,25
+PT003,Tires,Component,15
+PT010,Gears,Sub-assembly,40
+PT011,Kickstand,Component,5
+PT008,Pedals,Component,8
+PT009,Crankset,Sub-assembly,35
+PT012,Paint & Finish,Process,10
+PT004,Handlebar,Component,20
+PT005,Seat,Component,18
+PT006,Brakes,Sub-assembly,12
+PT013,Paint & Finish,Process,10
+PT014,Paint & Finish,Process,10
