@@ -1,80 +1,13 @@
-[
-  {
-    "Item Number": "PT001",
-    "Item": "Frame",
-    "Part Category": "Raw Material",
-    "Unit Cost (USD)": 80
-  },
-  {
-    "Item Number": "PT002",
-    "Item": "Wheels (front & rear)",
-    "Part Category": "Assembly",
-    "Unit Cost (USD)": 25
-  },
-  {
-    "Item Number": "PT003",
-    "Item": "Tires",
-    "Part Category": "Component",
-    "Unit Cost (USD)": 15
-  },
-  {
-    "Item Number": "PT010",
-    "Item": "Gears",
-    "Part Category": "Sub-assembly",
-    "Unit Cost (USD)": 40
-  },
-  {
-    "Item Number": "PT011",
-    "Item": "Kickstand",
-    "Part Category": "Component",
-    "Unit Cost (USD)": 5
-  },
-  {
-    "Item Number": "PT008",
-    "Item": "Pedals",
-    "Part Category": "Component",
-    "Unit Cost (USD)": 8
-  },
-  {
-    "Item Number": "PT009",
-    "Item": "Crankset",
-    "Part Category": "Sub-assembly",
-    "Unit Cost (USD)": 35
-  },
-  {
-    "Item Number": "PT012",
-    "Item": "Paint & Finish",
-    "Part Category": "Process",
-    "Unit Cost (USD)": 10
-  },
-  {
-    "Item Number": "PT004",
-    "Item": "Handlebar",
-    "Part Category": "Component",
-    "Unit Cost (USD)": 20
-  },
-  {
-    "Item Number": "PT005",
-    "Item": "Seat",
-    "Part Category": "Component",
-    "Unit Cost (USD)": 18
-  },
-  {
-    "Item Number": "PT006",
-    "Item": "Brakes",
-    "Part Category": "Sub-assembly",
-    "Unit Cost (USD)": 12
-  },
-  {
-    "Item Number": "PT013",
-    "Item": "Paint & Finish",
-    "Part Category": "Process",
-    "Unit Cost (USD)": 10
-  },
-  {
-    "Item Number": "PT014",
-    "Item": "Paint & Finish",
-    "Part Category": "Process",
-    "Unit Cost (USD)": 10
-  }
-]
+{
+  "parts": [
+    { "Part Number": "A101", "Price (USD)": 120 },
+    { "Part Number": "A102", "Price (USD)": 45 },
+    { "Part Number": "A103", "Price (USD)": 25 },
+    { "Part Number": "B201", "Price (USD)": 60 },
+    { "Part Number": "B202", "Price (USD)": 55 },
+    { "Part Number": "B203", "Price (USD)": 20 },
+    { "Part Number": "C301", "Price (USD)": 15 },
+    { "Part Number": "C302", "Price (USD)": 10 },
+    { "Part Number": "C303", "Price (USD)": 35 }
+  ]
+}
